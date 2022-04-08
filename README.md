@@ -1,6 +1,8 @@
 # trabalhos-UFES
 
-# Revisão de Ponteiros em C 
+# Exercicio 1
+
+Revisão de ponteiros em C
 Use alocação dinâmica sempre que  possível!!! 
 
 Exercícios:  
